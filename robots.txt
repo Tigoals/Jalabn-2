@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://jalalive3.beritanasional.eu.org/sitemap.xml
