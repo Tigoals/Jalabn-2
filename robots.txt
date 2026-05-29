@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://jalalive3.beritanasional.eu.org/sitemap.xml
+Sitemap: https://jalalive2.beritanasional.eu.org/sitemap.xml
